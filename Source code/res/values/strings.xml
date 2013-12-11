@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DetectMyFuture</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ndb">Enter the Name and Date of Birth</string>
+    <string name="urname">Ur Name</string>
+    <string name="urdob">Ur Date of Birth</string>
+    <string name="dd">DD</string>
+    <string name="YY">YYYY</string>
+    <string name="nt">Enter the Name</string>
+    <string name="dbt">Enter Ur Date of Birth</string>
+    <string name="dm">Detect Me</string>
+    <string name="title_activity_activity2">Activity2</string>
+    <string name="fp">Famous Person in this Number</string>
+
+</resources>
